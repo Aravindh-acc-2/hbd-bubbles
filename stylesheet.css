@@ -996,7 +996,6 @@ audio {
 	33%{
 		-webkit-transform:translate(0px,0px);
 		-webkit-transform:rotate(10deg);
-		/*-webkit-transform:scale(1.5);*/
 	}
 	66% {
 		-webkit-transform:translate(0px,100px);
@@ -1013,7 +1012,6 @@ audio {
 	33%{
 		-moz-transform:translate(0px,0px);
 		-moz-transform:rotate(10deg);
-		/*-webkit-transform:scale(1.5);*/
 	}
 	66% {
 		-moz-transform:translate(0px,100px);
@@ -1030,7 +1028,6 @@ audio {
 	33%{
 		-o-transform:translate(0px,0px);
 		-o-transform:rotate(10deg);
-		/*-webkit-transform:scale(1.5);*/
 	}
 	66% {
 		-o-transform:translate(0px,100px);
@@ -1047,7 +1044,6 @@ audio {
 	33%{
 		-ms-transform:translate(0px,0px);
 		-ms-transform:rotate(10deg);
-		/*-webkit-transform:scale(1.5);*/
 	}
 	66% {
 		-ms-transform:translate(0px,100px);
@@ -1065,7 +1061,6 @@ audio {
 	33%{
 		transform:translate(0px,0px);
 		transform:rotate(10deg);
-		/*-webkit-transform:scale(1.5);*/
 	}
 	66% {
 		transform:translate(0px,100px);
@@ -1300,12 +1295,3 @@ audio {
         color: #fff;
         background-color: #466baf;
     }
-
-
-
-    /*controlling tablet width*/
-    /*@media only screen and (max-width: 720px){
-    	.container {
-    		-webkit-transform: scale(0.9);
-    	}
-    }*/
